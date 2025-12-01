@@ -113,6 +113,3 @@ Examples of segments include:
 * The UK market drives the majority of revenue and customer activity
 
 
----
-
-If you want, I can also prepare a requirements.txt file, a short LinkedIn summary, or a project banner for your GitHub repository.
