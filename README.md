@@ -1,12 +1,4 @@
 # RFM-Customer-Segmentation-Cohort-Analysis
-Here is the final **copy-paste ready** README.md — *no emojis, no extra formatting issues*.
-You can paste this directly into your GitHub README editor.
-
----
-
-# RFM Customer Segmentation and Cohort Analysis
-
-Capstone Project Series – Project 1
 
 This project presents an end-to-end workflow for performing RFM (Recency, Frequency, Monetary) Analysis, Customer Segmentation, K-Means Clustering, and Cohort Analysis using the Online Retail dataset from the UCI Machine Learning Repository. The project was completed by building my own analysis pipeline, with some inspiration taken from publicly available Kaggle notebooks.
 
